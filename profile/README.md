@@ -9,7 +9,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-![Nucleus Logo](cover.png)
+![Nucleus Logo](https://raw.githubusercontent.com/nucleus-lang/.github/main/profile/cover.png)
 
 __Nucleus__ is an upcoming low-level, compiled systems programming language optimized for the development of system software and firmware, video games, computer graphics and scientific computing applications. Nucleus is fast, safe, secure, predictable, robust and reliable. It will do everything in its power to stop you from shooting yourself in the foot, working yourself into a corner or unleashing debug hell. Nucleus also does not care what syntax style you prefer, for it allows you to use both indentation-based and curly-braced syntax at will.
 
