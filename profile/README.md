@@ -20,7 +20,7 @@ __Nucleus__ is a:
 - Crazy
 - Fun
 
-...programming language that provides you complete and absolute control over the compiler, without being extremely complicated to use.
+...programming language that aims at providing you complete and absolute control over the compiler, without being extremely complicated to use.
 
 ![Nucleus Bars](https://raw.githubusercontent.com/nucleus-lang/.github/main/profile/bars.png)
 
