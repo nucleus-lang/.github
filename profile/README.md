@@ -11,8 +11,6 @@
 
 ![Nucleus Logo](https://raw.githubusercontent.com/nucleus-lang/.github/main/profile/cover.png)
 
-![Nucleus Bars](https://raw.githubusercontent.com/nucleus-lang/.github/main/profile/bars.png)
-
 __Nucleus__ is a:
 
 - Little
@@ -27,5 +25,3 @@ __Nucleus__ is a:
 ![Nucleus Bars](https://raw.githubusercontent.com/nucleus-lang/.github/main/profile/bars.png)
 
 The language is at a very early stage and currently little more than a draft. But by all means, do stick around.
-
-![Nucleus Bars](https://raw.githubusercontent.com/nucleus-lang/.github/main/profile/bars.png)
